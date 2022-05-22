@@ -1,0 +1,22 @@
+.type-number-button {
+
+    background-color: #fff;
+    
+    height: 50px;
+    width: 50px;
+
+    border: 1px solid #ccc;
+}
+
+.double-width-button {
+    height: 50px;
+    width: 100px;
+}
+
+.operator {
+    background-color: #ccc;
+    border: 1px solid #fff;
+}
+.equal {
+    background-color: #689eca;
+}
