@@ -1,9 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100vw;
+  height: 100vh;
+}
+
 .container-calculadora {
-  width: 200px;
-  margin: auto;
+  width: 300px;
 }
 
 .row {
   display: flex;
-  justify-content: space-around;
 }
