@@ -1,6 +1,5 @@
 .input {
-    width: 100%;
-    height: 75px;
+    grid-column: 1/5;
     padding: 20px;
     font-size: 25px;
 }
